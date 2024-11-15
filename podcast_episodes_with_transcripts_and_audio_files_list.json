@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Episode 1: Introduction to Podcasting",
+    "source": "BBC News",
+    "url": "https://www.bbc.com/news/podcasts/episode1",
+    "text": "Welcome to our podcast! In this episode, we introduce ourselves and discuss the basics of podcasting.",
+    "audio_file": "episode1.mp3"
+  },
+  {
+    "title": "Episode 2: The History of Podcasting",
+    "source": "The New York Times",
+    "url": "https://www.nytimes.com/podcasts/episode2",
+    "text": "In this episode, we explore the history of podcasting and how it has evolved over the years.",
+    "audio_file": "episode2.mp3"
+  },
+  {
+    "title": "Episode 3: The Future of Podcasting",
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/podcasts/episode3",
+    "text": "In this episode, we discuss the future of podcasting and how it will continue to evolve.",
+    "audio_file": "episode3.mp3"
+  },
+  {
+    "title": "Episode 4: The Impact of Podcasting on Society",
+    "source": "Al Jazeera",
+    "url": "https://www.aljazeera.com/podcasts/episode4",
+    "text": "In this episode, we explore the impact of podcasting on society and how it has changed the way we consume information.",
+    "audio_file": "episode4.mp3"
+  },
+  {
+    "title": "Episode 5: The Business of Podcasting",
+    "source": "CNN",
+    "url": "https://www.cnn.com/podcasts/episode5",
+    "text": "In this episode, we discuss the business side of podcasting and how to make a successful podcast.",
+    "audio_file": "episode5.mp3"
+  },
+  {
+    "title": "Episode 6: The Art of Podcasting",
+    "source": "The Washington Post",
+    "url": "https://www.washingtonpost.com/podcasts/episode6",
+    "text": "In this episode, we explore the art of podcasting and how to create engaging and entertaining content.",
+    "audio_file": "episode6.mp3"
+  },
+  {
+    "title": "Episode 7: The Science of Podcasting",
+    "source": "NPR",
+    "url": "https://www.npr.org/podcasts/episode7",
+    "text": "In this episode, we discuss the science behind podcasting and how it has changed the way we consume information.",
+    "audio_file": "episode7.mp3"
+  },
+  {
+    "title": "Episode 8: The Technology of Podcasting",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/podcasts/episode8",
+    "text": "In this episode, we explore the technology behind podcasting and how it has evolved over the years.",
+    "audio_file": "episode8.mp3"
+  },
+  {
+    "title": "Episode 9: The Culture of Podcasting",
+    "source": "The Atlantic",
+    "url": "https://www.theatlantic.com/podcasts/episode9",
+    "text": "In this episode, we discuss the culture of podcasting and how it has changed the way we consume information.",
+    "audio_file": "episode9.mp3"
+  },
+  {
+    "title": "Episode 10: The Future of Podcasting",
+    "source": "Forbes",
+    "url": "https://www.forbes.com/podcasts/episode10",
+    "text": "In this episode, we explore the future of podcasting and how it will continue to evolve.",
+    "audio_file": "episode10.mp3"
+  }
+]
